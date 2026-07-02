@@ -38,7 +38,7 @@ The PiLock system is an IoT-based smart lock that replaces traditional single-fa
 * `lock_test.py`: A simple hardware test script to check relay and solenoid functionality.
 * `delete_all_fingerprint.py`: Utility script to clear the SEN0188 sensor's internal memory.
 
-## How to Run (Server-side)
+## 🚀 How to Run (Server-side)
 1. Install dependencies:
    ```bash
    pip install flask picamera2 face_recognition opencv-python librosa sounddevice adafruit-circuitpython-fingerprint RPi.GPIO
